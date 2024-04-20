@@ -1,7 +1,7 @@
 
 # Todo app with react
 
-Source code for my [todo app tutorial](https://maddi8.xyz/blog/basic-todo-app-with-react "Maddi8 Blog - How to make a todo app with react")
+Source code for my [todo app tutorial](https://maddi8.xyz/blog/react-todo "Maddi8 Blog - How to make a todo app with react")
 
 Basic todo app using react. Everything is stored in localStorage.
 
